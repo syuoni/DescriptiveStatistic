@@ -1,6 +1,4 @@
-#' @title students
-#' 
-#' @author syuoni
+#' Example data for descriptive statistic
 #' 
 #' @docType data
 #' @name students
