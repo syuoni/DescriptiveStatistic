@@ -3,8 +3,8 @@
 \docType{data}
 \name{students}
 \alias{students}
-\title{students}
-\author{
-syuoni
+\title{Example data for descriptive statistic}
+\description{
+Example data for descriptive statistic
 }
 
